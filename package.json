@@ -50,7 +50,7 @@
     "@stablelib/x25519": "^1.0.0",
     "borc": "^2.1.2",
     "cids": "^1.0.0",
-    "did-jwt": "git+https://github.com/oed/did-jwt.git#feat/jwe",
+    "did-jwt": "git+https://github.com/alexjg/did-jwt.git#fix-eddsa-alg",
     "fast-json-stable-stringify": "^2.1.0",
     "uint8arrays": "^1.1.0"
   },
